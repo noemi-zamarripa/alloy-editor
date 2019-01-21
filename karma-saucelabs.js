@@ -50,13 +50,19 @@ var customLaunchers = {
 		base: 'SauceLabs',
 		browserName: 'microsoftedge',
 		platform: 'Windows 10',
-		version: '14'
+		version: '15'
 	},
 	sl_edge_22: {
 		base: 'SauceLabs',
 		browserName: 'microsoftedge',
 		platform: 'Windows 10',
-		version: '15'
+		version: '16'
+	},
+	sl_edge_23: {
+		base: 'SauceLabs',
+		browserName: 'microsoftedge',
+		platform: 'Windows 10',
+		version: '17'
 	}
 };
 
